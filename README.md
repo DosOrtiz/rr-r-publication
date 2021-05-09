@@ -1,6 +1,6 @@
 ![](figures/header.png)
 
-# RR Workshop Tutorial: Writing publications with R
+# Hello madafaca! RR Workshop Tutorial: Writing publications with R
 
 This tutorial in the context of the **Reproducible Research Workshop** provides you with the first steps on how to write publications in R.
 
